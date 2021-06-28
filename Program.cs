@@ -6,7 +6,6 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            //bool fizz,buzz;
             int fiz, buz;
 
             for (int i = 1; i<100; i++) {
